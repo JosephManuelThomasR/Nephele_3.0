@@ -11,8 +11,8 @@ Future modules:
 - Complete robot control system
 
 Components:
-1. Four NEMA 23 Motors       |
-2. Four 4" Mecanum Wheels    |
-3. Four TB6600 Motor Drivers |
-4. Raspberry pi 4            |
-5. 
+1. Four NEMA 23 Motors       
+2. Four 4" Mecanum Wheels    
+3. Four TB6600 Motor Drivers 
+4. Raspberry pi 4            
+5. HDMI Display or Remote Windows 11 Connection using ssh
