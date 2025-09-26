@@ -26,8 +26,8 @@ Steps:
 4. The following are the positions of the wheels:
    1. FL - Front Left
    2. FR - Front Right
-   3. RL - Rear Left
-   4. RR - Rear Right
+   3. BL - Back Left
+   5. BR - Back Right
 5. Connect the PUL- and DIR- pins in series and take one connection from either pin and connect to a GND pin in the pi. Repeat this for each motor driver.
 6. Fit the mecanum wheels to the motors such that the rollers of the diagonally placed wheels are aligned to each other.
 7. Execute the given Mecanum.py codefile using terminal using "python3 Mecanum.py" or execute it directly in the editor.
